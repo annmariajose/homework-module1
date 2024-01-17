@@ -208,3 +208,76 @@ td:first-child {
     font-weight: bold;
     background: #BDE1FF;
 }
+
+/* Contact */
+#contact h1 {
+    color: #9ed034;
+}
+
+#contact main p {
+    padding-bottom: 0.8em;
+}
+
+.contactinfo div {
+    padding-bottom: 0.5em;
+}
+
+.contactinfo div span:first-child, label {
+    font-weight: bold;
+}
+
+fieldset {
+    border: 2px solid #9ed034;
+}
+
+legend {
+    color: #4977D1;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0 0.5em 0 0.5em;
+}
+
+form div {
+    padding: 1em 0 0 0;
+}
+
+.textbox label, .commentbox label {
+    display: block;
+}
+
+.textbox label:not(:first-child) {
+    padding: 0.5em 0 0 0;
+}
+
+.textbox input {
+    width: 52%;
+    height: 1.5em;
+}
+
+select {
+    width: 15em;
+    height: 1.5em;
+    text-align: center;
+}
+
+.commentbox textarea {
+    width: 52%;
+    height: 15em;
+}
+
+.button {
+    width: 10em;
+    height: 5em;
+    margin: auto;
+}
+
+input[type="submit"] {
+    border: none;
+    background-color: #4977D1;
+    color: #fff;
+    width: 8em;
+    height: 3em;
+    font-weight: bold;
+    font-size: large;
+    margin: auto;
+}
