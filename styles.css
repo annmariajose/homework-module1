@@ -10,6 +10,16 @@ header {
     background-size: 1500px;
 }
 
+#activities header {
+    background: no-repeat lightgray url(images/runfly.jpg);
+    background-size: 1500px;
+}
+
+#contact header {
+    background: no-repeat lightgray url(images/cliff_rock.jpg);
+    background-size: 1500px;
+}
+
 .main-header {
     background-color: rgb(255, 255, 255, 0.8);
     width: 700px;
