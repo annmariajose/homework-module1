@@ -83,7 +83,7 @@ main {
     margin: 5em 0 5em 5em;
 }
 
-main h2 {
+main h1 {
     color: #9ed034;
 }
 
@@ -215,10 +215,6 @@ td:first-child {
 }
 
 /* Contact */
-#contact h1 {
-    color: #9ed034;
-}
-
 #contact main p {
     padding-bottom: 0.8em;
 }
