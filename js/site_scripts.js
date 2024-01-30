@@ -25,3 +25,5 @@ function PartnerImages() {
 
     document.getElementById("partners").innerHTML = listArray.join("");
 }
+
+PartnerImages();
