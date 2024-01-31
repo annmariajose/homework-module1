@@ -286,9 +286,26 @@ select {
     margin: auto;
 }
 
+.randomcode {
+    width: 52%;
+    margin: auto;
+}
+
+.randomcode input {
+    width: 10em;
+    height: 1.5em;
+}
+
+.randomcode #codes {
+    background-color: lightgray;
+    padding: 12px 15px 12px 15px;
+    margin-left: 10px;
+    display: inline;
+}
+
 input[type="submit"] {
     border: none;
-    background-color: #4977D1;
+    /* background-color: #4977D1; */
     color: #fff;
     width: 8em;
     height: 3em;
